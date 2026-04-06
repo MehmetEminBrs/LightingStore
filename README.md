@@ -108,5 +108,5 @@ Daha Fazla Ödeme Yöntemi – Online ödeme ve dijital cüzdan entegrasyonu
 
 
 
-UYARI: Bu proje hâlen geliştirilme aşamasındadır.
+Gelişim Durumu: Bu proje hâlen geliştirilme aşamasındadır.
 
