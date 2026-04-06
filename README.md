@@ -11,14 +11,20 @@ Fullstack e-ticaret uygulaması. Ürün listeleme, stok kontrolü, favoriler, yo
    -  **Adres Yönetimi:** Yeni adres ekleme, silme ve güncelleme.
     - **Hesap Ayarları:** Kullanıcı adı değiştirme.
     - **Güvenlik:** Şifre güncelleme ve e-posta doğrulama.
+    -**Etkileşim:** Kullanıcı ürüne yazdığı yorumu silebilme.
  
 - E-posta doğrulama ve şifre sıfırlama
 - Ürünleri kategori, popülerlik, indirim ve yeni ürün olarak kategorilendirme-filtreleme 
 - Ürünleri listeleme, filtreleme ve detay görüntüleme
 - Ürünlere yorum yazabilme
 - Favorilere ekleme / çıkarma
-- Sepet ve sipariş yönetimi
+- Sepete ekleme ve sipariş yönetimi
 - Admin panel üzerinden ürün, kategori, stok ve yorum yönetimi
+    -  **Ürün Yönetimi:** Yeni Ürün ekleme, silme ve güncelleme.
+    - **Kategori Yönetimi:** Yeni kategori ekleme, silme ve güncelleme.
+    - **Stok Yönetimi:** Ürüne ait stok silme, ekleme, güncelleme.
+    - **Yorum Yönetimi:** Ürüne ait yorumları listeleme, yorum silme.
+
 - EF Core migrations ile versioned database
 - Full responsive tasarım(mobil, tablet, desktop)
 
