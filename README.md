@@ -55,7 +55,7 @@ npm install
 npm run dev
 
 ```
-Aşağıda verilen .env dosyasındaki API URL alanına kendi URL adresinizi giriniz.
+Aşağıda verilen .env.example dosyasını kopyalayım .env oluşturun. API URL alanına kendi URL adresinizi giriniz.
 ```bash
 .env -> API URL: VITE_API_URL=http://localhost:5xxx 
 ```
