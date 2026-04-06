@@ -15,6 +15,7 @@ Fullstack e-ticaret uygulaması. Ürün listeleme, stok kontrolü, favoriler, yo
 - Sepet ve sipariş yönetimi
 - Admin panel üzerinden ürün, kategori, stok ve yorum yönetimi
 - EF Core migrations ile versioned database
+- Full responsive tasarım(mobil, tablet, desktop)
 
 ---
 
