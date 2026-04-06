@@ -94,8 +94,6 @@ Kargo Takip Entegrasyonu – Üçüncü taraf kargo servisleri ile otomatik taki
 
 Daha Fazla Ödeme Yöntemi – Online ödeme ve dijital cüzdan entegrasyonu
 
-Mobil Optimizasyon ve PWA – Mobil cihazlar için tam uyumlu deneyim
-
 
 
 
