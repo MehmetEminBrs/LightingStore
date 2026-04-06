@@ -1,0 +1,23 @@
+# .NET Build
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# Visual Studio
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Secrets
+appsettings.Development.json
+appsettings.json
+secrets.json
+# Logs
+*.log
+
+# Publish output
+publish/

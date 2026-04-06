@@ -1,0 +1,6 @@
+@LightingStore.Api_HostAddress = http://localhost:5150
+
+GET {{LightingStore.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
