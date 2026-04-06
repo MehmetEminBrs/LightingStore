@@ -30,11 +30,13 @@ Fullstack e-ticaret uygulaması. Ürün listeleme, stok kontrolü, favoriler, yo
 ---
 
 ## Proje Yapısı
-
+```text
 LightingStore/
 ├─ LightingStore.Api/ # Backend (.NET 8)
 ├─ LightingStore.Frontend/ # Frontend (React + Vite)
 └─ README.md
+
+```
 
 Kurulum
 
@@ -47,6 +49,9 @@ dotnet restore
 dotnet ef database update
 dotnet run
 ```
+appsettingsexamp.json dosyasını kopyalayıp appsetings.json oluşturun. placeholder alanları doldurun.
+
+
 ### Frontend
 ```bash
 
@@ -55,7 +60,7 @@ npm install
 npm run dev
 
 ```
-Aşağıda verilen .env.example dosyasını kopyalayım .env oluşturun. API URL alanına kendi URL adresinizi giriniz.
+Aşağıda verilen .env.example dosyasını kopyalayıp .env oluşturun. API URL alanına kendi URL adresinizi giriniz.
 ```bash
 .env -> API URL: VITE_API_URL=http://localhost:5xxx 
 ```
@@ -65,6 +70,18 @@ Notlar
 Migrations, backend içinde versioned olarak tutulmaktadır.
 API ve Frontend, .env üzerinden kolayca konfigüre edilebilir.
 E-posta bilgileri ve JWT anahtarları placeholder olarak gelmiştir; production ortamında değiştirilmesi gerekmektedir.
+
+##  Proje Görselleri
+
+İndirmeden önce projenin nasıl göründüğünü görmek için `screenshots` klasörüne göz atabilirsiniz:
+
+
+```text
+LightingStore/
+├── screenshots/
+│   ├── Login.png      
+```
+
 
 
 ## Gelecekte Planlanan Özellikler
@@ -77,6 +94,8 @@ Kargo Takip Entegrasyonu – Üçüncü taraf kargo servisleri ile otomatik taki
 Daha Fazla Ödeme Yöntemi – Online ödeme ve dijital cüzdan entegrasyonu
 
 Mobil Optimizasyon ve PWA – Mobil cihazlar için tam uyumlu deneyim
+
+
 
 
 UYARI: Bu proje hâlen geliştirilme aşamasındadır.
