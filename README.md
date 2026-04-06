@@ -6,7 +6,11 @@ Fullstack e-ticaret uygulaması. Ürün listeleme, stok kontrolü, favoriler, yo
 
 ## Özellikler
 
-- Kullanıcı kayıt, giriş ve profil yönetimi
+- Kullanıcı kayıt, giriş
+- Kullanıcı Profil Yönetimi
+    Adres Ekleme, Silme Güncelleme
+    Kullanıcı Adı Değiştirme, Silme
+    Şifre Güncelleme
 - E-posta doğrulama ve şifre sıfırlama
 - Ürünleri kategori, popülerlik, indirim ve yeni ürün olarak kategorilendirme-filtreleme 
 - Ürünleri listeleme, filtreleme ve detay görüntüleme
