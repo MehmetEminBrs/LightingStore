@@ -50,7 +50,7 @@ dotnet restore
 dotnet ef database update
 dotnet run
 ```
-appsettingsexamp.json dosyasını kopyalayıp appsetings.json oluşturun. placeholder alanları doldurun.
+appsettingsexamp.json dosyasını kopyalayıp appsettings.json oluşturun. placeholder alanları doldurun.
 
 
 ### Frontend
